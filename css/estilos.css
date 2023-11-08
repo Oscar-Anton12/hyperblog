@@ -42,7 +42,7 @@ body
 #container
 {
     width: 70%;
-    padding: 0;
+    padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
@@ -56,4 +56,12 @@ body
 {
     background: white;
     padding: 1em;
+}
+
+#footer
+{
+    background: yellowgreen;
+    color: blueviolet;
+    text-align:center;
+    padding: 0.5em;
 }
